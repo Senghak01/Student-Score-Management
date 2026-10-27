@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Year2\Advance App\StudentScoreManagement\StudentScoreManagement.Data\obj\Debug\net9.0\StudentScoreManagement.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Year2\Advance App\StudentScoreManagement\StudentScoreManagement.Data\obj\Debug\net9.0\StudentScoreManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Year2\Advance App\StudentScoreManagement\StudentScoreManagement.Data\obj\Debug\net9.0\StudentScoreManagement.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Year2\Advance App\StudentScoreManagement\StudentScoreManagement.Data\obj\Debug\net9.0\StudentScoreManagement.Data.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Year2\Advance App\StudentScoreManagement\StudentScoreManagement.Data\obj\Debug\net9.0\StudentScoreManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Year2\Advance App\StudentScoreManagement\StudentScoreManagement.Data\bin\Debug\net9.0\StudentScoreManagement.Data.deps.json
+C:\Users\Admin\OneDrive\Year2\Advance App\StudentScoreManagement\StudentScoreManagement.Data\bin\Debug\net9.0\StudentScoreManagement.Data.runtimeconfig.json
+C:\Users\Admin\OneDrive\Year2\Advance App\StudentScoreManagement\StudentScoreManagement.Data\bin\Debug\net9.0\StudentScoreManagement.Data.dll
+C:\Users\Admin\OneDrive\Year2\Advance App\StudentScoreManagement\StudentScoreManagement.Data\bin\Debug\net9.0\StudentScoreManagement.Data.pdb
+C:\Users\Admin\OneDrive\Year2\Advance App\StudentScoreManagement\StudentScoreManagement.Data\obj\Debug\net9.0\StudentScoreManagement.Data.dll
+C:\Users\Admin\OneDrive\Year2\Advance App\StudentScoreManagement\StudentScoreManagement.Data\obj\Debug\net9.0\refint\StudentScoreManagement.Data.dll
+C:\Users\Admin\OneDrive\Year2\Advance App\StudentScoreManagement\StudentScoreManagement.Data\obj\Debug\net9.0\StudentScoreManagement.Data.pdb
+C:\Users\Admin\OneDrive\Year2\Advance App\StudentScoreManagement\StudentScoreManagement.Data\obj\Debug\net9.0\StudentScoreManagement.Data.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Year2\Advance App\StudentScoreManagement\StudentScoreManagement.Data\obj\Debug\net9.0\ref\StudentScoreManagement.Data.dll

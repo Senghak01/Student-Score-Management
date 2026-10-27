@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentScoreManagement.Data", "StudentScoreManagement.Data\StudentScoreManagement.Data.csproj", "{71F4F60A-3A4A-4D81-976C-64BB6898BC25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentScoreManagement.ConsoleApp", "StudentScoreManagement.ConsoleApp\StudentScoreManagement.ConsoleApp.csproj", "{CFE9C71C-59F5-450D-A9F9-00D764173F2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71F4F60A-3A4A-4D81-976C-64BB6898BC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F4F60A-3A4A-4D81-976C-64BB6898BC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F4F60A-3A4A-4D81-976C-64BB6898BC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F4F60A-3A4A-4D81-976C-64BB6898BC25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFE9C71C-59F5-450D-A9F9-00D764173F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE9C71C-59F5-450D-A9F9-00D764173F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE9C71C-59F5-450D-A9F9-00D764173F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE9C71C-59F5-450D-A9F9-00D764173F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {453820D3-9903-490A-843F-B6EEB70D286A}
+	EndGlobalSection
+EndGlobal
