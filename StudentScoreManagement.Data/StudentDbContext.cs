@@ -14,7 +14,7 @@ namespace StudentScoreManagement.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            string conStr = "server=localhost;port=3306;database=StudentDB;user=root;password=77778888;";
+            string conStr = "server=localhost;port=3306;database=StudentDB;user=root;password=your_password;";
             optionsBuilder.UseMySql(conStr, ServerVersion.AutoDetect(conStr));
         }
 
